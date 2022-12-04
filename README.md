@@ -18,7 +18,7 @@
 <p style="text-align: left;">&nbsp;</p>
 </td>
 <td style="width: 451.301px; height: 11px;">
-<p><strong> Cyberbezpieczeństwo i informatyka śledcza</strong></p>
+<p><strong>Cyberbezpieczeństwo i informatyka śledcza</strong></p>
 <p><em>Uczelnia Łazarskiego w Warszawie&nbsp;(Studia Podyplomowe)</em></p>
 </td>
 <td style="width: 83.6992px; height: 11px;">
@@ -31,7 +31,7 @@
 <p style="text-align: left;">&nbsp;</p>
 </td>
 <td style="width: 451.301px; height: 27.3333px;">
-<p><strong>&nbsp;</strong><strong>Inżynier logistyki i transportu</strong></p>
+<p><strong>Inżynier logistyki i transportu</strong></p>
 <p><em>Wyższa Szkoła Biznesu w Dąbrowie G&oacute;rniczej</em></p>
 </td>
 <td style="width: 83.6992px; height: 27.3333px;">
