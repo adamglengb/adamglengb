@@ -9,7 +9,7 @@
 <tbody>
 <tr style="height: 61px;">
 <td style="width: 545px; height: 61px;" colspan="3">
-<p style="text-align: left;"><span style="color: #2977af;"><strong>WYKSZTAŁCENIE</strong></span><img src="http://adglen112.vxm.pl/pic/image008.png" alt="" width="814" height="5" /></p>
+<p style="text-align: left;"><span style="color: #2977af;"><strong>WYKSZTAŁCENIE</strong></span><img src="http://adglen112.vxm.pl/pic/image009.png" alt="" width="814" height="5" /></p>
 </td>
 </tr>
 <tr style="height: 11px;">
@@ -40,7 +40,7 @@
 </tr>
 <tr style="height: 51px;">
 <td style="width: 545px; height: 51px;" colspan="3">
-<p style="text-align: left;"><span style="color: #2977af;"><strong>DOŚWIADCZENIE ZAWODOWE</strong></span><img src="http://adglen112.vxm.pl/pic/image008.png" alt="" width="814" height="5" /></p>
+<p style="text-align: left;"><span style="color: #2977af;"><strong>DOŚWIADCZENIE ZAWODOWE</strong></span><img src="http://adglen112.vxm.pl/pic/image009.png" alt="" width="814" height="5" /></p>
 </td>
 </tr>
 <tr style="height: 1px;">
@@ -80,7 +80,7 @@
 </tr>
 <tr style="height: 62px;">
 <td style="width: 545px; height: 62px;" colspan="3">
-<p style="text-align: left;"><span style="color: #2977af;"><strong>CERTYFIKATY</strong></span><img src="http://adglen112.vxm.pl/pic/image008.png" alt="" width="814" height="5" /></p>
+<p style="text-align: left;"><span style="color: #2977af;"><strong>CERTYFIKATY</strong></span><img src="http://adglen112.vxm.pl/pic/image009.png" alt="" width="814" height="5" /></p>
 </td>
 </tr>
 <tr style="height: 61px;">
@@ -90,7 +90,7 @@
 </tr>
 <tr style="height: 61px;">
 <td style="width: 545px; height: 61px; text-align: right;" colspan="3">
-<p style="text-align: left;"><span style="color: #2977af;"><strong>WIĘCEJ O MNIE</strong></span><img src="http://adglen112.vxm.pl/pic/image008.png" alt="" width="814" height="5" /></p>
+<p style="text-align: left;"><span style="color: #2977af;"><strong>WIĘCEJ O MNIE</strong></span><img src="http://adglen112.vxm.pl/pic/image009.png" alt="" width="814" height="5" /></p>
 </td>
 </tr>
 <tr style="height: 140px;">
